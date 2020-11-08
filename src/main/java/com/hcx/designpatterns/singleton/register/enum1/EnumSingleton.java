@@ -1,4 +1,4 @@
-package com.hcx.designpatterns.singleton.register;
+package com.hcx.designpatterns.singleton.register.enum1;
 
 /**
  * 使用枚举

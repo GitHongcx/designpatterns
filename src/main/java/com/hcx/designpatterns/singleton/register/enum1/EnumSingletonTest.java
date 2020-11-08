@@ -1,6 +1,6 @@
-package com.hcx.designpatterns.singleton.register;
+package com.hcx.designpatterns.singleton.register.enum1;
 
-import com.hcx.designpatterns.singleton.serializable.SerializableSingleton;
+import com.hcx.designpatterns.singleton.register.enum1.EnumSingleton;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
